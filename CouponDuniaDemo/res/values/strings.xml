@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CouponDuniaDemo</string>
+    <string name="title_section1">IN YOUR CITY</string>
+    <string name="title_section2">NEARBY</string>
+    <string name="title_section3">BEST OFFRES</string>
+    <string name="hello_world">Hello Dunia!</string>
+    <string name="action_settings">Settings</string>
+    <string name="DummyPage">Dummy Page</string>
+    <string name="Static">Static</string>
+
+</resources>
